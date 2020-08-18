@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Number_1">Number 1</string>
+    <string name="Number_2">Number 2</string>
+    <string name="Button">OK</string>
+    <string name="Enternumber1">100</string>
+    <string name="Enternumber2">200</string>
+    <string name="Total">100 + 200 = 300</string>
+    <string name="Button1">+</string>
+    <string name="Button2">-</string>
+    <string name="Button3">*</string>
+    <string name="Button4">/</string>
+</resources>
